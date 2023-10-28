@@ -14,18 +14,6 @@
 </p>
 
 
-  
-
-### Main skills:
-  ![GitHub]([https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117](https://www.pngkey.com/png/detail/178-1787508_github-icon-download-at-icons8-white-github-icon.png))&nbsp;
-![Kotlin]([https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AKotlin-logo.png&psig=AOvVaw11nZHTqzrZw4Zw2HcOQTfn&ust=1698610573463000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDD8dHHmYIDFQAAAAAdAAAAABAE))&nbsp;
-![Javascript]([https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png))&nbsp;
-![CSS]([https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117](https://brandslogos.com/wp-content/uploads/images/large/css-logo.png))&nbsp; 
-
-  
-### Studying in this moment:
-![Kotlin](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Ktor](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
